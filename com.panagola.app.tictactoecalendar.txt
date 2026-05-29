@@ -1,0 +1,11 @@
+LAST_VER_CODE=82
+SHOW_UPDATE_DIALOG=Y
+SHOW_INTERSTITIAL=N
+MIN_AD_GAP_MINS=1200
+SHOW_EXIT_DIALOG=Y
+AD_MAX_WAIT_MS=7000
+FORCE_PRELOAD_ADS=N
+SHOW_BIG_AD=Y
+OFFER_PRICE_IN=★★ Summer Offer ★★<br><big><b>Half-price (50% off) Sale is ON!</b></big><br>Limited time only... hurry!
+OFFER_PRICE_HI=★★ समर ऑफर ★★<br><big><b>आधी कीमत (50% छूट) पर सेल चालू है!</b></big><br>सीमित समय के लिए... जल्दी करें!
+OFFER_PRICE_ROW=★★ Discount Offer ★★<br><big><b>Half-price (50% off) Sale is ON!</b></big><br>Limited time only... hurry!
