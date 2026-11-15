@@ -1,7 +1,7 @@
 com.panagola
 _;_;_;Y;Y;Y
 
-arrows,placeit,bubblepopart,christmaspuzzle,color2048
+arrows,placeit,bubblepopart,christmaspuzzle,color2048,hexapuzzle
 STD_BIG_ADS;N
 
 colorpuzzle
