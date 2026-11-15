@@ -1,7 +1,8 @@
-SHOW_INTERSTITIAL_ADS = "N"
-SHOW_OPEN_AD = "N"
-SHOW_EXIT_DIALOG = "N"
-SHOW_REVIEW_REQUEST = "N"
-PRESERVE_TOP_INSET = "N"
-AD_PREFS_PORT = "N"
-AD_PREFS_LAND = "N"
+com.panagola
+_;_;_;Y;Y;Y
+
+arrows,placeit,bubblepopart,christmaspuzzle,color2048
+STD_BIG_ADS;N
+
+colorpuzzle
+STD_TOP_ADS;Y;Y
