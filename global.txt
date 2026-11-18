@@ -11,5 +11,8 @@ STD_BIG_ADS;Y
 SUDOKU
 STD_MIX_ADS;Y
 
-colorpuzzle,pictris
+colorpuzzle,pictris,wordict
 STD_TOP_ADS;Y
+
+mappuzzle
+STD_BOT_ADS;Y
