@@ -9,7 +9,7 @@ imarblefree
 STD_BIG_ADS;Y
 
 SUDOKU
-STD_MIX_ADS;Y,Y,Y
+STD_MIX_ADS;Y
 
 colorpuzzle,pictris
 STD_TOP_ADS;Y
