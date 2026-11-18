@@ -2,11 +2,14 @@ com.panagola
 _;_;_;Y;Y;Y
 
 arrows,placeit,bubblepopart,christmaspuzzle,color2048,hexapuzzle
-hindujigsaw,arrangefree,jumblefree,oddcolorout
+hindujigsaw,arrangefree,jumblefree,oddcolorout,puzzle2048,shapepuzzle
 STD_BIG_ADS;N
 
 imarblefree
 STD_BIG_ADS;Y
+
+SUDOKU
+STD_MIX_ADS;Y,Y,Y
 
 colorpuzzle,pictris
 STD_TOP_ADS;Y
