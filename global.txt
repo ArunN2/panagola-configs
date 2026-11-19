@@ -3,23 +3,15 @@ _;_;_;Y;Y;Y
 
 arrows,placeit,bubblepopart,christmaspuzzle,color2048,hexapuzzle
 hindujigsaw,arrangefree,jumblefree,oddcolorout,puzzle2048,shapepuzzle
-cash
-STD_BIG_ADS;N
+cash : STD_BIG_ADS;N
 
-imarblefree
-STD_BIG_ADS;Y
+imarblefree : STD_BIG_ADS;Y
+sudoku : STD_BIG_BOT;Y
+ishow : STD_BOT_BIG
+colorpuzzle,pictris,wordict : STD_TOP_ADS;Y
+mappuzzle : STD_BOT_ADS;Y
 
-SUDOKU
-STD_BIG_BOT;Y
+chakra,tictactoecalendar
+STD_BIG_DEV,N
 
-ishow
-STD_BOT_BIG;N
-
-colorpuzzle,pictris,wordict
-STD_TOP_ADS;Y
-
-mappuzzle
-STD_BOT_ADS;Y
-
-chakra,tictactoecalendar,
-STD_BIG_ADS_DEV,N
+tictactoecalendar: SHOW_OPEN_AD=I,OPEN_AD_AUTO_CLOSE_SECS=3
