@@ -12,6 +12,6 @@ colorpuzzle,pictris,wordict : STD_TOP_ADS;Y
 mappuzzle : STD_BOT_ADS;Y
 
 chakra,tictactoecalendar
-STD_BIG_DEV,N
+STD_BIG_DEV,d
 
 tictactoecalendar: SHOW_OPEN_AD=I,OPEN_AD_AUTO_CLOSE_SECS=3
